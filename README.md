@@ -1,2 +1,3 @@
 # hello-world
-一次测试
+this is a test.
+i like it.
